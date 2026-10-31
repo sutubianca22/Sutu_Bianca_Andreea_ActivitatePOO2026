@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Librarie.cpp" />
     <ClCompile Include="Seminar01cpp.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
