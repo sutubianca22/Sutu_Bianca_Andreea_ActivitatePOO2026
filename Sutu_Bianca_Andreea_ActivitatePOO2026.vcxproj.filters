@@ -15,10 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Seminar01cpp.cpp">
+    <ClCompile Include="ActivitateAcasa01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Librarie.cpp">
+    <ClCompile Include="ActivitateAcasa03Librarie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Activitate04.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Activitate01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Activitate02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Activitate03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
