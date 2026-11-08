@@ -21,9 +21,6 @@
     <ClCompile Include="ActivitateAcasa03Librarie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Activitate04.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Activitate01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -31,6 +28,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Activitate03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ActivitateAcasa04.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
